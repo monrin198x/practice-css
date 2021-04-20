@@ -1,0 +1,9 @@
+@import 'reset.css';
+
+.my-class {
+	font-size: 2rem;	
+}
+
+p {
+	font-size: 1rem;
+}
